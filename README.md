@@ -1,5 +1,8 @@
-Hey, I'm
+Greetings
 # victorcoriolano
-18 years old, interested in FullStack Development Focused Learning;<br>
-Today studying Systems Dev. at ETEC de Carapicuíba;<br>
-Working now on Front.End//UIUX.Environment
+brazilian
+Interested in FullStack Development Focused Learning;<br>
+Today studying Web Systems Development including HTML/CSS/Javascript and frameworks such as Node.js, Vue.Js, React and<br>
+basic principles of back-end such as PHP and Python/Lavarel.<br>
+Análise e Desenvolvimento de Sistemas em FATEC de Carapicuíba;<br>
+Aiming to build integrated environments and to combine Rust / Vue.js into Front-End/UI-UX designing.
