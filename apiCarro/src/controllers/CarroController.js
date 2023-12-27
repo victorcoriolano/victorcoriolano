@@ -1,8 +1,9 @@
-const CarroService = require('../services/CarroService.js');
+const CarroService = require('../services/CarroService');
 
 module.exports = {
-    buscarTodos: async(req, res)=> {
-        let json = {error: '', result: []}
+    buscarTodos: async (req, res) => {
+        let json = {error:'', result:[]};
+
         let carros = await CarroService.buscarTodos();
 
         for(let i in carros){
@@ -11,6 +12,7 @@ module.exports = {
                 descricao: carros[i].modelo
             });
         }
+
         res.json(json);
     }
-}
+};
