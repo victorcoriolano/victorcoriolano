@@ -9,7 +9,7 @@ Produto.init(
         Codigo:
         {
             type:sequelize.INTEGER,
-            autoIncrement: true,
+            autoIncrement: false,
             allowNull: false,
             prymaryKey: true
         },
@@ -31,7 +31,9 @@ Produto.init(
     },
     {
     sequelize : database, modelName:'tbProduto',
+    
     }
 );
+Produto.removeAttribute('id'!='Codigo');
 
 module.exports = Produto;

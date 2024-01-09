@@ -1,7 +1,7 @@
-const sequelize = require('sequelize');
-const database = new sequelize ('dbApiCarros', 'root', 'root',
+const Sequelize = require('sequelize');
+const database = new Sequelize ('dbApiCarros', 'root', 'root',
 {
-    dialect:'mssql',
+    dialect:'mysql',
     host: 'localhost',
     user: 'root',
     password: 'root',
