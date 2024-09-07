@@ -1,8 +1,9 @@
 Greetings
 # victorcoriolano
-brazilian
+Brazilian \<O> <br>
 Interested in FullStack Development Focused Learning;<br>
-Today studying Web Systems Development including HTML/CSS/Javascript and frameworks such as Node.js, Vue.Js, React and<br>
-basic principles of back-end within PHP/Lavarel and Python.<br>
-Análise e Desenvolvimento de Sistemas em FATEC de Carapicuíba;<br>
-Aiming to build integrated environments and to combine Rust / Vue.js into Front-End/UI-UX designing.
+Today studying Web Systems Development including HTML/CSS/Javascript/Dart and frameworks such as Flutter, Vue.Js and Sass.<br>
+Deeply envolved within the Object Orientation Paradigm and the Design Patterns method utilizing Dart, Java or Python.<br>
+Aiming to build integrated environments and to combine multiplatform applications with cloud services and automations. <br>
+<br>
+Análise e Desenvolvimento de Sistemas em FATEC de Carapicuíba.<br>
