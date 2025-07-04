@@ -1,9 +1,9 @@
 ## Saudações... #victorcoriolano
 Software Engineer from Brazil \\\<O\> <br>
 <div>
-  <a href="https://www.linkedin.com/in/victor-coriolano-de-paula/"><img align="center", height="5", width="5", alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
-  <a href="https://www.behance.net/onaloiroc"><img align="center", height="5", width="5", alt="Behance" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"></a>
-  <a href="https://victorcoriolano.my.canva.site/portfolio"><img align="center", height="5", width="5", alt="Website" src="https://pics.freeicons.io/uploads/icons/png/8705987771530273516-512.png"></a>
+  <a href="https://www.linkedin.com/in/victor-coriolano-de-paula/"><img align="center" width="5" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://www.behance.net/onaloiroc"><img align="center" width="5" alt="Behance" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"></a>
+  <a href="https://victorcoriolano.my.canva.site/portfolio"><img align="center" width="5" alt="Website" src="https://pics.freeicons.io/uploads/icons/png/8705987771530273516-512.png"></a>
 </div>
 <br>
 
