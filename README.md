@@ -26,7 +26,7 @@ Fullstack
 <br>
 Deeply involved now within Software Architecture focusing on the Object Orientation Paradigm, Design Patterns and SOLID principles, acting both front-end and back-end.<br>
 Interested in AI integration, Serverless computing, System Design and Embbeded systems. <br>
-Working on consulting company building .net ERP modules and reactive environments in flutter, combining fluter multiplatform applications and development or integration of api's on the cloud.<br>
+Working on a consulting company building .net ERP modules and reactive environments in flutter, combining fluter multiplatform applications and development or integration of api's on the cloud.<br>
 <br>
 Formado Técnologo em Análise e Desenvolvimento de Sistemas na FATEC <br>
 Formado Técnico em Desenvolvimento de Sistemas na ETEC <br>
