@@ -1,15 +1,12 @@
-## Saudações... #victorcoriolano
-Software Engineer from Brazil \\\<O\> <br>
+## #victorcoriolano
+BR Software Engineer
+Fullstack
 <div>
   <a href="https://www.linkedin.com/in/victor-coriolano-de-paula/"><img align="center" width="35" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
   <a href="https://www.behance.net/onaloiroc"><img align="center" width="35" alt="Behance" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"></a>
   <a href="https://victorcoriolano.my.canva.site/portfolio"><img align="center" width="35" alt="Website" src="https://pics.freeicons.io/uploads/icons/png/8705987771530273516-512.png"></a>
 </div>
 <br>
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcoriolano&show_icons=true&theme=gruvbox&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0&count_weight=1&hide=html,css&layout=compact&theme=gruvbox)
-
 <div>
   <img align="center" width="35" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" width="35" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
@@ -27,8 +24,9 @@ Software Engineer from Brazil \\\<O\> <br>
 
 <br>
 <br>
-Deeply involved within Software Architecture using the Object Orientation Paradigm, Design Patterns and SOLID principles.<br>
-Interested in AI integration, Serverless computing and System Design. <br>
-Working on building reactive environments and combining multiplatform applications with cloud services and automations. <br>
+Deeply involved now within Software Architecture focusing on the Object Orientation Paradigm, Design Patterns and SOLID principles, acting both front-end and back-end.<br>
+Interested in AI integration, Serverless computing, System Design and Embbeded systems. <br>
+Working on consulting company building .net ERP modules and reactive environments in flutter, combining fluter multiplatform applications and development or integration of api's on the cloud.<br>
 <br>
-Cursando o último semestre de Análise e Desenvolvimento de Sistemas em FATEC de Carapicuíba.<br>
+Formado Técnologo em Análise e Desenvolvimento de Sistemas na FATEC <br>
+Formado Técnico em Desenvolvimento de Sistemas na ETEC <br>
